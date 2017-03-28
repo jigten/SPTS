@@ -26,7 +26,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+
+# This gem is for authorization
 gem 'devise', '~> 4.2', '>= 4.2.1'
+
+# This gem is for student profile photo upload
+gem 'paperclip', '~> 5.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development

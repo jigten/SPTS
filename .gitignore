@@ -12,6 +12,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+/puublic/system/student_profiles/images
 
 # Ignore Byebug command history file.
 .byebug_history
