@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  devise_for :users
   resources :student_profiles
 
   root 'student_profiles#index'
