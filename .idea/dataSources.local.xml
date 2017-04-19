@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails SPTS: test" uuid="9a529877-3177-4f23-a6e2-8229717629d2">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>sravan</user-name>
+      <introspection-schemas>SPTS_test:public</introspection-schemas>
+    </data-source>
+    <data-source name="Rails SPTS: production" uuid="bce8ed90-66bc-4c1a-9697-2e62cf072c70">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>sravan</user-name>
+    </data-source>
+    <data-source name="Rails SPTS: development" uuid="71d28d7e-e901-4f1a-be84-9e691a404424">
+      <database-info product="PostgreSQL" version="9.5.6" jdbc-version="4.0" driver-name="PostgreSQL Native Driver" driver-version="PostgreSQL 9.4 JDBC4 (build 1201)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sravan</user-name>
+      <introspection-schemas>SPTS_development:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>

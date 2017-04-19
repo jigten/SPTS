@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails SPTS: test" uuid="9a529877-3177-4f23-a6e2-8229717629d2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:SPTS_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails SPTS: production" uuid="bce8ed90-66bc-4c1a-9697-2e62cf072c70">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:SPTS_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails SPTS: development" uuid="71d28d7e-e901-4f1a-be84-9e691a404424">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:SPTS_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
